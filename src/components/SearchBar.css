@@ -1,0 +1,23 @@
+.search-bar {
+    width: 300px;
+  }
+  
+  .search-bar .MuiOutlinedInput-root {
+    color: white !important;
+  }
+  
+  .search-bar .MuiInputLabel-root {
+    color: white !important;
+  }
+  
+  .search-bar .MuiOutlinedInput-notchedOutline {
+    border-color: white !important;
+  }
+  
+  .search-bar .MuiOutlinedInput-input:hover {
+    border-color: lightgreen !important;
+  }
+  
+  .search-bar .MuiOutlinedInput-input:focus {
+    border-color: lightgreen !important;
+  }
