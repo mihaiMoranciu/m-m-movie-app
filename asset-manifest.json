@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/m-m-movie-app/static/css/main.e6c13ad2.css",
+    "main.js": "/m-m-movie-app/static/js/main.8f6b32d3.js",
+    "static/media/bright-light-dark-background.jpg": "/m-m-movie-app/static/media/bright-light-dark-background.f08f8b38393cb5af5e88.jpg",
+    "index.html": "/m-m-movie-app/index.html",
+    "main.e6c13ad2.css.map": "/m-m-movie-app/static/css/main.e6c13ad2.css.map",
+    "main.8f6b32d3.js.map": "/m-m-movie-app/static/js/main.8f6b32d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8f6b32d3.js"
+  ]
+}
